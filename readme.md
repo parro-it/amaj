@@ -30,6 +30,7 @@
 ## People
 
 JavaScript community is full of beautiful, kindly experts who can help you learn. Follow them, contribute to their projects and you'll get plenty of occasions to learn!
+
 _Note to JS rockstars: if you happen to be listed in this section, but you prefer to be removed, please open a PR or an issue and you'll be removed (but be aware that this'll make us really sad 😿)_
 
 ### Douglas Crockford
@@ -51,6 +52,7 @@ _Note to JS rockstars: if you happen to be listed in this section, but you prefe
 
 ## Projects
 
+* [promise-fun](https://github.com/sindresorhus/promise-fun) - A lot of promise related modules by @sindresorhus. If you want to learn promises the right way, you'll get there a lot of npm packages to study & help improve.
 
 # Contribute
 
