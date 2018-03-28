@@ -7,7 +7,8 @@
 
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
-- 
+- We won't do your homework.
+
 
 ### Learning resources
 
