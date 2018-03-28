@@ -15,6 +15,7 @@
 - Question should be technical ones. _Don't ask if we prefer Angular or React_
 - Question shouldn't be entry-level. Read the learning resources first.
 - Whenever possible, question will be answered with link to other resources.
+- Discussions on already answered questions are encouraged, if they improve the question and/or the answer.
 
 ### Learning resources
 
@@ -37,9 +38,9 @@ _Thank you. You're awesome!_
 
 1) Answer questions.
 2) Improve the readme and make a PR.
-3) Suggest other improvement (open an issue).
-4) If you ask for (open an issue), and it happens I know you, I'll add you as a collaborator to triage issue.
-5) Give us a ⭐. Our ego need them 👨🏻‍🎤
+3) Suggest other improvements ([open an issue](../../issues/new)).
+4) If you ask for ([open an issue](../../issues/new)), and it happens I know you, I'll add you as a collaborator to triage issue.
+5) Give us a ⭐. Our egos need them in great quantity 👨🏻‍🎤
 
 ### License
 
