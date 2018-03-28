@@ -27,6 +27,10 @@
 
 #### People
 
+JavaScript community is full of beautiful, kindly experts who can help you learn. Follow them, contribute to their projects and you'll get plenty of occasions to learn!
+
+
+
 #### Projects
 
 
@@ -44,3 +48,9 @@ _Thank you. You're awesome!_
 
 ### License
 
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Andrea Parodi](https://github.com/parro-it), [Gianni Rossi](https://github.com/giannirossi72), and [Patrick Roncagliolo](https://github.com/roncapat) has waived all copyright and related or neighboring rights to this work.
