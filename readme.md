@@ -18,6 +18,28 @@
 
 ### Learning resources
 
+#### Books
+
+* [JavaScript: The Good Parts](https://www.amazon.it/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1522259785&sr=8-1&keywords=the+good+parts) - by Douglas Crockford.
+
+#### Blogs
+
+#### People
+
+#### Projects
 
 
-### Links
+### Contribute
+
+Hey I'm an expert. This idea is really nice! How can I help you?
+
+_Thank you. You're awesome!_
+
+1) Answer questions.
+2) Improve the readme and make a PR.
+3) Suggest other improvement (open an issue).
+4) If you ask for (open an issue), and it happens I know you, I'll add you as a collaborator to triage issue.
+5) Give us a ⭐. Our ego need them 👨🏻‍🎤
+
+### License
+
