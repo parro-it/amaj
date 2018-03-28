@@ -54,6 +54,8 @@ _Note to JS rockstars: if you happen to be listed in this section, but you prefe
 
 * [promise-fun](https://github.com/sindresorhus/promise-fun) - A lot of promise related modules by @sindresorhus. If you want to learn promises the right way, you'll get there a lot of npm packages to study & help improve.
 
+* [preact](https://github.com/developit/preact) - A smaller alternative to react by @developit. Since the code base it's smaller than React, it's easier to study, grasp, and contribute.
+
 # Contribute
 
 Hey I'm an expert. This idea is really nice! How can I help you?
