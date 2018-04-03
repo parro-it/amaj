@@ -22,6 +22,7 @@
 ## Books
 
 * [JavaScript: The Good Parts](https://www.amazon.it/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1522259785&sr=8-1&keywords=the+good+parts) - by Douglas Crockford.
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - by Kyle Simpson.
 
 ## Blogs
 
