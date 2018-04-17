@@ -5,7 +5,7 @@
 1) You ask a question about JavaScript.
 2) We answer it.
 3) It's that easy!
-4) Actually not. First, you have to go throw [Learning resources](https://github.com/parro-it/amaj#learning-resources). Then, you can ask remaining questions.
+4) Actually not. First, you have to go through [Learning resources](https://github.com/parro-it/amaj#learning-resources). Then, you can ask remaining questions.
 
 # Guidelines
 
